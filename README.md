@@ -74,9 +74,16 @@ A pre-built version for Windows is available in the `game build/` folder.
 - Universal Render Pipeline (URP) is configured for better performance
 - TextMesh Pro is configured for UI text rendering
 
-## 👤 Author
+## � Contributors
 
-**Ahmet Ozan Annagür** - AhmetOzanAnnagur
+| Name | Role | GitHub/LinkedIn |
+|------|------|-----------------|
+| **Ahmet Ozan Annagür** | Game Mechanics | [GitHub](https://github.com/AhmetOzanAnnagur) |
+| **Ahed Alaryan** | Game Mechanics | [GitHub](https://github.com/Ahed157) |
+| **Koray Korkmaz** | Game Design, Environment & Integration | [GitHub](https://github.com/Koray-Korkmaz) |
+| **Kayıhan Kayıgil** | Game Art | [LinkedIn](https://www.linkedin.com/in/kay%C4%B1han-kay%C4%B1gil-07944429b/) |
+
+This project was created as a collaborative effort for Bilkent GameJam 26, combining game mechanics, art design, and environment integration to create a cohesive gaming experience.
 
 ## 📄 License
 
